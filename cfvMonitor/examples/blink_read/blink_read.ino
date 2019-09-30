@@ -1,10 +1,11 @@
 #include <cfvMonitor.h>
 
-cfvMonitor monitor;
+cfvMonitor cfvmonitor;
 
 void setup() {
-  monitor.init();
+  cfvmonitor.init();
   pinMode(13, OUTPUT);
+  cfvmonitor.println("Welcome to cfvMonitor!");
 }
 
 void loop() {
