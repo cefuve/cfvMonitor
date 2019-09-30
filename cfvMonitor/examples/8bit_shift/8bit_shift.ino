@@ -1,9 +1,9 @@
 #include <cfvMonitor.h>
 
-cfvMonitor monitor;
+cfvMonitor cfvmonitor;
 
 void setup() {
-  monitor.init();
+  cfvmonitor.init();
   pinMode(6, OUTPUT);
   pinMode(7, OUTPUT);
   pinMode(8, OUTPUT);
