@@ -2,11 +2,11 @@
 Arduino's library and Window's app for monitoring Arduino Uno and Nano boards, reading continuosly the ports states.
 
 App's sections means:
-> PORT: Is register where Arduino's pin are set to on/off.
-> BIT: Individual's bit data obtains from PORT.
-> PIN: Register's bit marked on the board.
-> STATE: Show if pins are on/off.
-> DIR: Show if pins are input or output.
+> - PORT: Is register where Arduino's pin are set to on/off.
+> - BIT: Individual's bit data obtains from PORT.
+> - PIN: Register's bit marked on the board.
+> - STATE: Show if pins are on/off.
+> - DIR: Show if pins are input or output.
 
 # Compatibility
 
