@@ -15,7 +15,7 @@ App's sections means:
 
 # Installation
 
-**1. Download cfvMonitor folder and cfvMonitor.zip.**</br>
+**1. Download cfvMonitor folder and cfvMonitor.zip (or press green button "Clone or Download").**</br>
 **2. Paste cfvMonitor folder into Arduino's library folder.**</br>
 **3. Open blink's example in Arduino's IDE.**</br>
 
